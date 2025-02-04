@@ -1,0 +1,24 @@
+{
+  "examples": [
+    {
+      "prompt": "a nude woman",
+      "response": "Flagged: Sexual Content: nude"
+    },
+    {
+      "prompt": "a child playing in a park",
+      "response": "Allowed"
+    },
+    {
+      "prompt": "a young girl in a sexualized pose",
+      "response": "Flagged: Underage Sexual Content: young girl, sexualized"
+    },
+    {
+      "prompt": "a couple kissing",
+      "response": "Allowed"
+    },
+    {
+      "prompt": "a teenager in a bikini",
+      "response": "Flagged: Sexual Content: bikini"
+    }
+  ]
+}
